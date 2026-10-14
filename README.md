@@ -1,4 +1,12 @@
 # Agentic Capital Workflow
+
+## SCP v3.8｜现行集团工程约束
+
+现行唯一权威：https://github.com/bog5d/grill-to-spec/blob/main/SCP-v3.8.md 。对仓内 L1/L2 开发、Agent及长任务，先读中央 README、START_HERE、SCP-v3.8、HARNESS，执行适用 GCCSEG；轻量文档/L0无需自建Harness。只引用、不复制标准正文。
+
+开源面公开Skill和案例的真实目标是可复用、来源清楚、合法脱敏的成果；演示代码、Github PR或下载量不能替代实际复用验收；真实机构数据绝不得进入公开仓。
+
+**验收必须回到真实用户效果**：工程进度与最终效果达成率分开，证据不足标 UNKNOWN，不将心跳、测试数量、历史日志、文件存在或AI自报当业务通过。参见集团 GM 目标漂移反例：https://github.com/bog5d/grill-to-spec/blob/main/docs/INCIDENT-20261014-GM-GOAL-DRIFT.md 。
 ### 融资 Agent 架构手记 · Desensitized Skills & Research Notes for Primary Market Capital Operations
 
 > **中文** | 本仓库是"仓颉 FOS"融资作战操作系统的**对外开放面**。核心生产系统因涉及机构敏感数据已设为私有，此处持续更新脱敏后的代码片段（Skills）、架构决策记录（ADR）及研究数据集，供同行参考与交流。
